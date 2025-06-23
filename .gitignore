@@ -73,3 +73,6 @@ media/
 
 # FastAPI stuff
 instance/
+
+.DS_Store
+
